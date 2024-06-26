@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to the new blog",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew."
+    },
+    {
+      "id": "2",
+      "title": "How to be a very good programmer",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew."
+    },
+    {
+      "id": "3",
+      "title": "This is the end of the world",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew."
+    },
+    {
+      "id": "4",
+      "title": "Becoming a Master Chef:",
+      "body": "In July 1962, nineteen-year-old Sarah Collins stands at the brink of adulthood, fueled by a passion for cooking. Just as she's about to give up on her dream of becoming a chef due to financial constraints, she stumbles upon an old, leather-bound cookbook in her grandmother's attic titled \"Becoming a Master Chef.\" The book, with its faded pages and handwritten notes, beckons Sarah into "
+    }
+  ]
+}
